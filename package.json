@@ -1,0 +1,24 @@
+{
+    "name": "surgesnipp",
+    "displayName": "surgesnipp",
+    "description": "vscode extension by mantra to get boiler code of c++",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "cpp",
+                "path": "./snippets/snippets.code-snippets"
+            }, 
+            {
+                "language": "c",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

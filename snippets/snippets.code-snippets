@@ -1,0 +1,25 @@
+{
+    "boilercode for c starter code":{
+        "prefix": "!c",
+        "body": [
+            "#include<stdio.h>",
+            "int main(){",
+            "    printf(\"hello world\"); $1",
+            "    return 0;",
+            "}"
+        ],
+        "description":"saves your time"
+    },
+    "boilercode for cpp starter code":{
+        "prefix": "!cpp",
+        "body": [
+            "#include<iostream>",
+            "using namespace std;",
+            "int main(){",
+            "    cout<<\"HELLO WORLD\"; $1",
+            "    return 0;",
+            "}"
+        ],
+        "description":"saves your time"
+    }
+}
