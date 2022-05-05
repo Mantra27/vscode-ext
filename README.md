@@ -1,7 +1,7 @@
 !!Boiler Plate code for CP and comp programing
 
 !CP:
-``cpp
+```cpp
 #include<iostream>
 using namespace std;
 int main(){
@@ -12,14 +12,14 @@ int main(){
     };
     return 0;
 }
-``
+```
 
 !C:
-``c
+```c
 #include<stdio.h>
 int main(){
     printf("hello world"); 
     return 0;
 }
-``
+```
 
