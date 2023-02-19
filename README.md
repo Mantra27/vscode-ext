@@ -1,4 +1,4 @@
-!! Boiler Plate code for CP and comp programing
+## Boiler Plate code for CP and comp programing
 
 !CP:
 ```cpp
